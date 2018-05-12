@@ -1,0 +1,38 @@
+_repo: The-Golden-Web_34945
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirkpatrick, William Arber-Brown
+    alias: Kirkpatrick, W. (William Arber-Brown)
+    birthdate: 1880
+    gutenberg_agent_id: '37332'
+    url: http://www.gutenberg.org/2009/agents/37332
+covers:
+- cover_type: archival
+  image_path: 34945-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Partridge, Anthony
+    - Oppenheim, Edward Phillips
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34945'
+  lccn: '11000774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Golden Web
+url: http://www.gutenberg.org/ebooks/34945
